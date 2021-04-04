@@ -10,4 +10,4 @@ Where These Docs?
 
 ##### There is my best go-to style
 - jt -t cula -fs 95 -altp -tfs 11 -nfs 115 -cellw 88% -T
-- 
+
