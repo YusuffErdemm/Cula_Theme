@@ -1,7 +1,7 @@
 # JuPyterMyTheme
 
 
-####You can use Jupyter Themes css files inside
+#### You can use Jupyter Themes css files inside
 Where These Docs?
 - ~/Library/Frameworks/python.framework/Versions/3.9/lib/python3.9/site-packages/jupyterthemes/styles
 ---
