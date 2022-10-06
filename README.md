@@ -9,5 +9,5 @@ Where These Docs?
 - jt -t cula
 
 ##### There is my best go-to style
-- jt -t cula -fs 95 -altp -tfs 11 -nfs 115 -cellw 88% -T
+jt -t cula -f fira -fs 10 -nf ptsans -nfs 11 -N -kl -cursw 5 -cursc r -cellw 95% -T
 
